@@ -1,0 +1,28 @@
+{
+    "Pizzen" : [
+        {"name" : "Pizza Margherita", "id" : 100, "price" : 5.00},
+        {"name" : "Pizza Tonno", "id" : 101, "price" : 6.00},
+        {"name" : "Pizza Fungi", "id" : 102, "price" : 7.00}
+    ],
+
+    "Aufläufe" : [
+        {"name" : "Nudelauflauf", "id" : 200, "price" : 6.00},
+        {"name" : "Kartoffelauflauf", "id" : 201, "price" : 7.00}
+    ],
+
+    "Salate" : [
+        {"name" : "Caesar Salat", "id" : 300, "price" : 6.50},
+        {"name" : "Griechischer Salat", "id" : 301, "price" : 7.50}
+    ],
+
+    "Desserts" : [
+        {"name" : "Tiramisu", "id" : 400, "price" : 3.30},
+        {"name" : "Panna Cotta", "id" : 401, "price" : 4.20}
+    ],
+
+    "Getränke" : [
+        {"name" : "Wasser", "id" : 500, "price" : 1.00},
+        {"name" : "Cola", "id" : 501, "price" : 2.50},
+        {"name" : "Bier", "id" : 502, "price" : 3.70}
+    ]
+}
